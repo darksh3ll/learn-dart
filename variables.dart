@@ -1,5 +1,11 @@
 void main() {
-  String name = 'stephane';
+  var lastName = "stephane";
+  const firstName = "job";
+
+  String deuxiemePrenom = 'roger jean';
   int age = 45;
-  print("tu as ${age} ans et tu t'apellle ${name.toUpperCase()}");
+  bool isMajeur = true;
+
+  final country = "france";
+  dynamic ville = "toulon";
 }
