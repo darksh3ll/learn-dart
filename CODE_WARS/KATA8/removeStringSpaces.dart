@@ -1,7 +1,7 @@
-String noSpace(String x) {
-  return x.split(" ");
+noSpace(String x) {
+  return x.split(" ").join('');
 }
 
 main() {
-  print(noSpace('s te p hane'));
+  print(noSpace('steph an  e'));
 }
