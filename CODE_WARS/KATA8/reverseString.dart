@@ -3,6 +3,5 @@ reverseString(String str) {
 }
 
 main() {
-  [1, 2, 3, 4, 5].min;
   print(reverseString("12"));
 }

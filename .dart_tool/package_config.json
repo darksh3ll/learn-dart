@@ -1,0 +1,14 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "vector_victor",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    }
+  ],
+  "generated": "2020-02-04T17:34:31.593343Z",
+  "generator": "pub",
+  "generatorVersion": "2.7.1"
+}
