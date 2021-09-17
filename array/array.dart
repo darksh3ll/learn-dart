@@ -9,7 +9,6 @@ void main() {
 
 // Vérifie que l'élément donné est dans la liste
   print(fruits.contains("banana")); //True
-
 //prend les 3 premiers scores
   print(scores.take(3)); //(12,10,5)
   //saute les 3 premiers scores
