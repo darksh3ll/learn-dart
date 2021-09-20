@@ -7,6 +7,8 @@ void main() {
     print(fruit);
   }
 
+Iterable<int> scores = const [1,2,3,4];
+  print(scores.first,);
 // Vérifie que l'élément donné est dans la liste
   print(fruits.contains("banana")); //True
 //prend les 3 premiers scores
