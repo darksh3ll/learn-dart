@@ -1,4 +1,0 @@
-name: vector_victor
-description: A sample command-line application.
-dependencies:
-dart:math: v2.7.1
