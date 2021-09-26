@@ -1,11 +1,5 @@
-void main() {
-  List<int> myList = [2, 3, 9, 8];
-  List<String> names = ["jean", "pierre"];
-  bool value = myList.contains(12);
-  myList.add(12);
-  print(isValue(12, myList));
-  print(isValue1("jean", names));
+List<int> scores = [12,12,12,12,12];
+List<String> fruits = ["apple","banana","peach"];
+void main(){
+  print(fruits.contains("apple"));
 }
-
-bool isValue(int num, List<int> argument) => argument.contains(num);
-bool isValue1(var num, List<dynamic> argument) => argument.contains(num);
