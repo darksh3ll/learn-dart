@@ -1,11 +1,5 @@
-bool isMajeur(int age) => age >= 18;
-
-void myPrice(int price){
-  print(price > 18);
+List<int> scores = [12,12,12,12,12];
+List<String> fruits = ["apple","banana","peach"];
+void main(){
+  print(fruits.contains("apple"));
 }
-
-
-
-void main() {
-}
-
